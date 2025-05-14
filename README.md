@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/frharsh/frharsh/blob/main/cyberharsh.png?raw=true" alt="banner" />
+  <img src="https://github.com/frharsh/frharsh/blob/main/cybharsh.png?raw=true" alt="banner" />
 </p>
 
 
