@@ -5,11 +5,10 @@
 ---
 
 ### 🕵️‍♂️ About Me
-- 🔭 I’m currently learning **Pentesting, Red Teaming, and Malware Analysis**
 - 🌱 Deep diving into `Linux`, `Active Directory`, and `Cloud Security`
 - 👨‍💻 All of my projects and write-ups are available at [your website/blog if any]
 - 🧠 Always exploring HackTheBox, TryHackMe & real-world vulns
-- 📫 Reach me at: [your email]
+- 📫 Reach me at: [tfharsh1@gmail.com]
 
 ---
 
