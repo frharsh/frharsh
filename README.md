@@ -1,41 +1,52 @@
-## Hi there 👋
 
-<h1 align="center">Hey! I am <span style="color:#ff0055">CyberHarxh</span> 🐉</h1>
-<h3 align="center">aka Harxh • Cyber Enthusiast • Security Learner</h3>
-
----
-
-### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/)
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tfharsh1@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)]()
+<h1 align="center">Hey 👋, I am [CyberHarxh]</h1>
+<h3 align="center">Cybersecurity Enthusiast | CTF Player | Future Red Teamer</h3>
 
 ---
 
-### 💻 Tech Stack
+### 🕵️‍♂️ About Me
+- 🔭 I’m currently learning **Pentesting, Red Teaming, and Malware Analysis**
+- 🌱 Deep diving into `Linux`, `Active Directory`, and `Cloud Security`
+- 👨‍💻 All of my projects and write-ups are available at [your website/blog if any]
+- 🧠 Always exploring HackTheBox, TryHackMe & real-world vulns
+- 📫 Reach me at: [your email]
 
-```bash
-Languages: C, C++, Python, JavaScript
-Frameworks: Flask, Next.js, Node.js, Django, Vue.js
-Databases: MySQL, SQLite
-Tools: Apache, Arduino, WireGuard, Tor, Docker, Cisco
-OS: Kali Linux, Windows, Android
+---
+
+### 🧰 Tech & Tools
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-489BD5?style=flat-square)
+![OSINT](https://img.shields.io/badge/-OSINT-000000?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+---
+
+### 💻 Operating Systems
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/-Parrot_OS-00bfff?style=flat-square&logo=parrotos&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
 
 
-
-<!--
-**frharsh/frharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
