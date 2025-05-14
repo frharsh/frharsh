@@ -1,6 +1,7 @@
+<p align="center">
+  <img src="https://github.com/frharsh/frharsh/blob/main/cyberharsh.png?raw=true" alt="banner" />
+</p>
 
-<h1 align="center">Hey 👋, I am [CyberHarxh]</h1>
-<h3 align="center">Cybersecurity Enthusiast | CTF Player | Future Red Teamer</h3>
 
 ---
 
