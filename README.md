@@ -1,49 +1,73 @@
+# 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
+
 よ, I'm Harsh  
-👨‍💻 Cybersecurity Enthusiast | 
-⛓️‍💥 CEH & SOC   
-👾 Focused on Threat Detection, Exploitation & Incident Response
+👨‍💻 Cybersecurity Student | CEH Learner  
+⛓️‍💥 Red Team & SOC Enthusiast  
+👾 Focused on Exploitation, Threat Detection & Incident Response  
 
-
-
-## 🖥️ Operating Systems:
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Cyber+Enthusiast;CEH+Learner;DFIR+%26+Threat+Intelligence;CTF+Player;Always+Learning+Something+New!)](https://git.io/typing-svg)
 
 ---
 
-## 🧰 Tech Stack:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![SIEM](https://img.shields.io/badge/-SIEM-003366?style=for-the-badge)
-![Snort](https://img.shields.io/badge/-Snort-FF3366?style=for-the-badge)
+## 🧠 Skill Domains:
+- Penetration Testing & Ethical Hacking  
+- Digital Forensics & Incident Response (DFIR)  
+- Threat Intelligence & Blue Team Operations  
+- Exploit Development (Basic)  
+- CTF Challenges (Network / Web / Forensics)  
+
+---
+
+## 💻 Operating Systems:
+![Windows](https://img.shields.io/badge/-Windows-111827?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=00AEEF)
+![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-0F172A?style=for-the-badge&logo=parrotsecurity&logoColor=00FFFF)
+
+---
+
+## ⚙️ Tools & Tech Stack:
+![Python](https://img.shields.io/badge/-Python-0F172A?style=for-the-badge&logo=python&logoColor=00FF87)
+![Metasploit](https://img.shields.io/badge/-Metasploit-0F172A?style=for-the-badge&logo=metasploit&logoColor=00AEEF)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-0F172A?style=for-the-badge&logo=burpsuite&logoColor=FF8A3D)
+![Wireshark](https://img.shields.io/badge/-Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=00BFFF)
+![Nmap](https://img.shields.io/badge/-Nmap-0F172A?style=for-the-badge&logo=nmap&logoColor=9BE9A8)
+![Hydra](https://img.shields.io/badge/-Hydra-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-0F172A?style=for-the-badge&logo=owasp&logoColor=00A5FF)
+![PowerShell](https://img.shields.io/badge/-PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=5391FE)
+![VeraCrypt](https://img.shields.io/badge/-VeraCrypt-0F172A?style=for-the-badge&logo=veracrypt&logoColor=7EA9FF)
+
+---
+
+## 🧰 Current Focus:
+- ⚔️ Preparing for **CEH v13**  
+- 🕵️‍♂️ Improving DFIR & Threat Intel Skills  
+- 🧩 Active on **TryHackMe** & **Hack The Box**  
+- 💻 Building custom exploitation & automation scripts  
 
 ---
 
 ## 📊 GitHub Stats:
-
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frharsh&theme=tokyonight)
-
----
-
-## 🧠 About Me
-- 💻 CEH Learner | Bug Bounty Explorer  
-- 🧩 Building AI-based Surveillance for Events (Simhastha 2028)  
-- 🚀 Currently improving skills in Threat Detection & Incident Response  
-
-📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frharsh)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frharsh&theme=dark)
 
 ---
 
-### 🌐 Connect with Me
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-jadhav-335795319//in/yourhandl)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/yourserver)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
+## 💀 Hacker Aesthetic
+![Hacker GIF](https://i.imgur.com/dBaSKWF.gif)
+
+---
+
+## 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINK)
+[![GitHub](https://img.shields.io/badge/-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frharsh)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-0F172A?style=for-the-badge&logo=tryhackme&logoColor=9BE9A8)](https://tryhackme.com/p/YOUR-USERNAME)
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/YOUR-ID)
+
+---
+
+
+![Snake animation](https://github.com/frharsh/frharsh/blob/output/github-contribution-grid-snake.svg)
+
 
 
