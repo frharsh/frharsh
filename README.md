@@ -2,8 +2,9 @@
 
 # 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
 
-<!-- Neon header (SVG file must be present in repo root) -->
-![CyberHarxh Neon Header](./cyberharxh.svg)
+<!-- Use PNG header to avoid SVG rendering/sanitization problems on GitHub -->
+<!-- Make sure file cyberharxh.png exists in repo root (case-sensitive) -->
+![CyberHarxh Neon Header](./cyberharxh.png)
 
 よ, I'm Harsh  
 👨‍💻 Cybersecurity Student | CEH Learner  
@@ -65,9 +66,9 @@
 Hacker GIF (neon terminal vibe):
 ![Hacker GIF](https://i.imgur.com/dBaSKWF.gif)
 
-<!-- Snake animation: the workflow must create the file at /output/github-contribution-grid-snake.svg -->
-<!-- Once the workflow runs, this will show the animated snake. -->
-![Snake animation](./output/github-contribution-grid-snake.svg)
+<!-- Snake animation (raw.githubusercontent link example). This file only exists after the workflow runs. -->
+<!-- Replace `main` with your default branch if it's not `main`. -->
+![Snake animation](https://raw.githubusercontent.com/frharsh/frharsh/main/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -80,7 +81,4 @@ Hacker GIF (neon terminal vibe):
 ---
 
 > *“In cybersecurity, curiosity isn’t dangerous — it’s essential.”*
-
-
-
 
