@@ -1,51 +1,49 @@
-<p align="center">
-  <img src="https://github.com/frharsh/frharsh/blob/main/cybharsh.png?raw=true" alt="banner" />
-</p>
+# 👨‍💻 Hey, I'm Harsh!
+# 👾 Hey, I'm Harsh!
+💻 Cybersecurity Student | Ethical Hacker | CEH Learner  
+⚡ Passionate about Penetration Testing, Network Exploitation & Red Teaming  
+🎯 Focused on learning real-world attack vectors and vulnerability assessment  
+🧠 Always exploring tools, scripts, and exploit techniques to stay ahead of threats  
 
 
----
-
-### 🕵️‍♂️ About Me
-- 🌱 Deep diving into `Linux`, `Active Directory`, and `Cloud Security`
-- 👨‍💻 All of my projects and write-ups are available at [your website/blog if any]
-- 🧠 Always exploring HackTheBox, TryHackMe & real-world vulns
-- 📫 Reach me at: [tfharsh1@gmail.com]
-
----
-
-### 🧰 Tech & Tools
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-489BD5?style=flat-square)
-![OSINT](https://img.shields.io/badge/-OSINT-000000?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+## 🖥️ Operating Systems:
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 💻 Operating Systems
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/-Parrot_OS-00bfff?style=flat-square&logo=parrotos&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+## 🧰 Tech Stack:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![SIEM](https://img.shields.io/badge/-SIEM-003366?style=for-the-badge)
+![Snort](https://img.shields.io/badge/-Snort-FF3366?style=for-the-badge)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" />
-</p>
+## 📊 GitHub Stats:
+
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frharsh&theme=tokyonight)
+
+---
+
+## 🧠 About Me
+- 💻 CEH Learner | Bug Bounty Explorer  
+- 🧩 Building AI-based Surveillance for Events (Simhastha 2028)  
+- 🚀 Currently improving skills in Threat Detection & Incident Response  
+
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frharsh)
 
 ---
 
 ### 🌐 Connect with Me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-jadhav-335795319//in/yourhandl)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/yourserver)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
 
