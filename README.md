@@ -4,8 +4,8 @@
 ![CyberHarxh Neon Header](./cyberharxh.png)
 
 よ, I'm Harsh  
-👨‍💻 Cybersecurity Student | CEH Learner  
-⛓‍💥 Red Team & SOC Enthusiast  
+👨‍💻 Cybersecurity Student |  
+⛓‍💥 CEH & SOC  
 👾 Focused on Exploitation, Threat Detection & Incident Response
 
 <!-- Neon typing - single color live widget (or replace with neon-typing.gif for multi-color) -->
