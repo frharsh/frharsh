@@ -9,12 +9,12 @@
 ⛓️‍💥 Red Team & SOC Enthusiast  
 👾 Focused on Exploitation, Threat Detection & Incident Response
 
-<!-- neon typing GIF (multi-color) -->
+<!-- === neon typing GIF (must be uploaded as neon-typing.gif in repo root) === -->
 <p align="center">
   <img src="./neon-typing.gif" alt="neon typing" width="680" />
 </p>
 
-<!-- animated neon divider (optional decorative bar) -->
+<!-- animated neon divider (must be uploaded as neon-bar.gif if you want divider) -->
 <p align="center">
   <img src="./neon-bar.gif" alt="neon divider" width="760" />
 </p>
