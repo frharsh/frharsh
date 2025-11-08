@@ -2,8 +2,7 @@
 
 # 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
 
-<!-- Use PNG header to avoid SVG rendering/sanitization problems on GitHub -->
-<!-- Make sure file cyberharxh.png exists in repo root (case-sensitive) -->
+<!-- Use PNG header to avoid SVG rendering problems -->
 ![CyberHarxh Neon Header](./cyberharxh.png)
 
 よ, I'm Harsh  
@@ -11,8 +10,8 @@
 ⛓️‍💥 Red Team & SOC Enthusiast  
 👾 Focused on Exploitation, Threat Detection & Incident Response
 
-<!-- Typing effect (single-color SVG hosted by readme-typing) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Cyber+Enthusiast;CEH+Learner;DFIR+%26+Threat+Intelligence;CTF+Player;Always+Learning!)](https://git.io/typing-svg)
+<!-- Typing effect in cyan -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Cyber+Enthusiast;CEH+Learner;DFIR+%26+Threat+Intelligence;CTF+Player;Always+Learning!)](https://git.io/typing-svg)
 
 ---
 
@@ -55,7 +54,6 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Replace `frharsh` with your username if different -->
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frharsh&theme=dark)
@@ -66,8 +64,7 @@
 Hacker GIF (neon terminal vibe):
 ![Hacker GIF](https://i.imgur.com/dBaSKWF.gif)
 
-<!-- Snake animation (raw.githubusercontent link example). This file only exists after the workflow runs. -->
-<!-- Replace `main` with your default branch if it's not `main`. -->
+<!-- Snake animation (raw.githubusercontent link). This file only exists after the workflow runs. -->
 ![Snake animation](https://raw.githubusercontent.com/frharsh/frharsh/main/output/github-contribution-grid-snake.svg)
 
 ---
@@ -81,4 +78,5 @@ Hacker GIF (neon terminal vibe):
 ---
 
 > *“In cybersecurity, curiosity isn’t dangerous — it’s essential.”*
+
 
