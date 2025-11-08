@@ -1,97 +1,102 @@
 <!-- README.md for GitHub profile: frharsh / Harxh -->
 # 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
 
-<!-- Neon PNG header (upload cyberharxh.png to repo root) -->
+<!-- Neon PNG header -->
 ![CyberHarxh Neon Header](./cyberharxh.png)
 
 よ, I'm Harsh  
 👨‍💻 Cybersecurity Student | CEH Learner  
 ⛓️‍💥 Red Team & SOC Enthusiast  
-👾 Focused on Exploitation, Threat Detection & Incident Response
+👾 Focused on Exploitation, Threat Detection & Incident Response  
 
-<!-- === neon typing GIF (must be uploaded as neon-typing.gif in repo root) === -->
+<!-- Animated neon typing (upload neon-typing.gif to repo root) -->
 <p align="center">
-  <img src="./neon-typing.gif" alt="neon typing" width="680" />
+  <img src="./neon-typing.gif" alt="neon typing animation" width="680" />
 </p>
 
-<!-- animated neon divider (must be uploaded as neon-bar.gif if you want divider) -->
+<!-- Animated neon divider (upload neon-bar.gif to repo root) -->
 <p align="center">
   <img src="./neon-bar.gif" alt="neon divider" width="760" />
 </p>
 
 ---
 
-## 🔥 Quick stats & badges
+## 🔥 Quick Stats & Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frharsh&theme=darkhub&row=1&column=4&margin-w=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=frharsh&theme=darkhub&row=1&column=4&margin-w=8" alt="Trophies" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=frharsh&color=00FF66&style=flat-square" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=frharsh&color=00FF66&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 📊 GitHub & Contribution Cards
+## 📊 GitHub & Contribution Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=dark&count_private=true" alt="stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=dark&count_private=true" width="48%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=dark" alt="langs" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=dark" width="32%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frharsh&theme=dark" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frharsh&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🧠 Skill Domains
-- Penetration Testing & Ethical Hacking  
-- Digital Forensics & Incident Response (DFIR)  
-- Threat Intelligence & Blue Team Ops  
-- Exploit Development (learning)  
-- CTFs — Web, Forensics, Network
+- 🔓 Penetration Testing & Ethical Hacking  
+- 🕵️ Digital Forensics & Incident Response (DFIR)  
+- 📊 Threat Intelligence & Blue Team Ops  
+- 💣 Exploit Development (learning)  
+- 🎯 CTFs — Web, Forensics, Network  
 
 ---
 
 ## ⚙️ OS / Tools & Tech Stack
+
+**Operating Systems:**
 <p>
-  <img src="https://img.shields.io/badge/-Windows-111827?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=00AEEF" alt="Kali" />
-  <img src="https://img.shields.io/badge/-Parrot%20OS-0F172A?style=for-the-badge&logo=parrotsecurity&logoColor=00FFFF" alt="Parrot" />
+  <img src="https://img.shields.io/badge/-Windows-111827?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=00AEEF" />
+  <img src="https://img.shields.io/badge/-Parrot%20OS-0F172A?style=for-the-badge&logo=parrotsecurity&logoColor=00FFFF" />
 </p>
 
+**Tech Stack & Tools:**
 <p>
-  <img src="https://img.shields.io/badge/-Python-0F172A?style=for-the-badge&logo=python&logoColor=00FF87" alt="Python" />
-  <img src="https://img.shields.io/badge/-Metasploit-0F172A?style=for-the-badge&logo=metasploit&logoColor=00AEEF" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-0F172A?style=for-the-badge&logo=burpsuite&logoColor=FF8A3D" alt="Burp" />
-  <img src="https://img.shields.io/badge/-Nmap-0F172A?style=for-the-badge&logo=nmap&logoColor=9BE9A8" alt="Nmap" />
-  <img src="https://img.shields.io/badge/-Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=00BFFF" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/-PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=5391FE" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/-VeraCrypt-0F172A?style=for-the-badge&logo=veracrypt&logoColor=7EA9FF" alt="VeraCrypt" />
+  <img src="https://img.shields.io/badge/-Python-0F172A?style=for-the-badge&logo=python&logoColor=00FF87" />
+  <img src="https://img.shields.io/badge/-Metasploit-0F172A?style=for-the-badge&logo=metasploit&logoColor=00AEEF" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-0F172A?style=for-the-badge&logo=burpsuite&logoColor=FF8A3D" />
+  <img src="https://img.shields.io/badge/-Nmap-0F172A?style=for-the-badge&logo=nmap&logoColor=9BE9A8" />
+  <img src="https://img.shields.io/badge/-Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/-PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=5391FE" />
+  <img src="https://img.shields.io/badge/-VeraCrypt-0F172A?style=for-the-badge&logo=veracrypt&logoColor=7EA9FF" />
 </p>
 
 ---
 
 ## 🧰 Current Projects
-- **SNIFFER** — Python network sniffer (packet analysis & learning)  
-- **Codexx** — exploit templates & pentest utilities  
-- Recon & post-exploitation automation tools (Python)
+- **SNIFFER** — Python-based network sniffer for packet analysis  
+- **Codexx** — custom exploit templates & pentest utilities  
+- ⚡ Recon & post-exploitation automation using Python  
 
 ---
 
-## 💀 Visuals & Live Aesthetics
-Hacker GIF (neon terminal vibe):  
+## 💀 Hacker Aesthetic
+
+**Neon Terminal Vibe:**
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" alt="hacker gif" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="480" alt="Hacker Vibe" />
 </p>
 
-<!-- Contribution snake (generated by GitHub Actions workflow) -->
+**GitHub Activity Snake:**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frharsh/frharsh/main/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/frharsh/frharsh/main/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-jadhav-335795319/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   &nbsp;
@@ -105,5 +110,6 @@ Hacker GIF (neon terminal vibe):
 ---
 
 > *“In cybersecurity, curiosity isn’t dangerous — it’s essential.”*  
-> — Harsh (Harxh)
-
+> — **Harxh** 🐉
+> *“In cybersecurity, curiosity isn’t dangerous — it’s essential.”*  
+> — **Harxh** 🐉
