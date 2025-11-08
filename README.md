@@ -1,9 +1,4 @@
-<!-- README.md for GitHub profile: frharsh / Harxh -->
-<!-- Paste this file into the root README.md of the repository named exactly: frharsh -->
-
-# 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
-
-<!-- Neon PNG header (upload cyberharxh.png to repo root) -->
+<!-- top of README -->
 ![CyberHarxh Neon Header](./cyberharxh.png)
 
 よ, I'm Harsh  
@@ -11,12 +6,10 @@
 ⛓️‍💥 Red Team & SOC Enthusiast  
 👾 Focused on Exploitation, Threat Detection & Incident Response
 
-<!-- Neon typing - single color live widget (or replace with neon-typing.gif for multi-color) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFFF&center=true&vCenter=true&width=680&lines=Cyber+Enthusiast;CEH+Learner;DFIR+%26+Threat+Intelligence;CTF+Player;Always+Learning!)]
+<!-- neon typing GIF (multi-color) -->
+<img src="./neon-typing.gif" alt="neon typing" width="680" />
 
----
-
-<!-- Animated neon divider (optional GIF: neon-bar.gif) -->
+<!-- animated neon divider -->
 <p align="center">
   <img src="./neon-bar.gif" alt="neon divider" width="760" />
 </p>
