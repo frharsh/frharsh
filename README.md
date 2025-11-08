@@ -1,9 +1,8 @@
-# 👨‍💻 Hey, I'm Harsh!
-# 👾 Hey, I'm Harsh!
-💻 Cybersecurity Student | Ethical Hacker | CEH Learner  
-⚡ Passionate about Penetration Testing, Network Exploitation & Red Teaming  
-🎯 Focused on learning real-world attack vectors and vulnerability assessment  
-🧠 Always exploring tools, scripts, and exploit techniques to stay ahead of threats  
+よ, I'm Harsh  
+👨‍💻 Cybersecurity Enthusiast | 
+⛓️‍💥 CEH & SOC   
+👾 Focused on Threat Detection, Exploitation & Incident Response
+
 
 
 ## 🖥️ Operating Systems:
