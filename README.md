@@ -89,7 +89,6 @@ Hacker GIF (neon terminal vibe):
 ---
 
 > *“In cybersecurity, curiosity isn’t dangerous — it’s essential.”*  
-> — **Harxh** 🐉
+>  🐉
 
----
-> *“In cybersecurity, curiosity isn’t dangerous — it’s essential.”*
+
