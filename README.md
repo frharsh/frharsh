@@ -81,12 +81,14 @@
 </picture>
 
 
-## 🔗 Connect
+🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-jadhav-335795319/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frharsh)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-0F172A?style=for-the-badge&logo=tryhackme&logoColor=9BE9A8)](https://tryhackme.com/p/fr.harxh)
 [![HackTheBox](https://img.shields.io/badge/-HackTheBox-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/Athex1)
 
+🌐 Connect With Me
+<p align="center"> <a href="https://github.com/frharsh"> <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=00ffcc" /> </a> <a href="https://t.me/Ophelian_Shadows"> <img src="https://img.shields.io/badge/Telegram-203a43?style=for-the-badge&logo=telegram&logoColor=00ffcc" /> </a> <a href="mailto:yourmail@gmail.com"> <img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=00ffcc" /> </a> </p> <!-- ===================== FOOTER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/> </p> ```
 ---
 
 > *“In cybersecurity, curiosity isn’t dangerous — it’s essential.”*  
