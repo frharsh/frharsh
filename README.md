@@ -69,12 +69,14 @@
 - *Codexx* — small exploit templates & pentest utils  
 - Working on automation for recon & post-exploitation with Python
 
-
-<h2 align="center">🐍 Cyber Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/frharsh/frharsh/output/snake-neon.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/snake-dark-cyber.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/snake-cyber.svg" />
+  <img alt="github snake animation"
+    src="https://raw.githubusercontent.com/frharsh/frharsh/output/snake-cyber.svg" />
+</picture>
 
 
 ## 🔗 Connect
