@@ -70,13 +70,10 @@
 - Working on automation for recon & post-exploitation with Python
 
 
-## 🐍 Contribution Snake 
+<h2 align="center">🐍 Cyber Contribution Snake</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/smartysiya/smartysiya/output/github-contribution-grid-snake-dark.svg"
-    alt="Neon Snake Animation"
-  />
+  <img src="https://raw.githubusercontent.com/frharsh/frharsh/output/snake-neon.svg" />
 </p>
 
 
