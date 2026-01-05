@@ -1,24 +1,23 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20I'm%20Harsh%20👋&fontSize=42&fontColor=00ffcc&animation=fadeIn" />
-</p>
+ 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
 
-<!-- ===================== TYPING ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;CTF+Player+%7C+Ethical+Hacker;Offensive+Security+Learner;Breaking+to+Protect+🔐" />
-</p>
+<!-- Neon PNG header (upload cyberharxh.png to repo root) -->
+![CyberHarxh Neon Header](./cyberharxh.png)
+
+よ, I'm Harsh  
+👨‍💻 Cybersecurity Student |  
+⛓‍💥 CEH & SOC  
+👾 Focused on Exploitation, Threat Detection & Incident Response
+
+<!-- Neon typing - single color live widget (or replace with neon-typing.gif for multi-color) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFFF&center=true&vCenter=true&width=680&lines=Cyber+Enthusiast;CEH+Learner;DFIR+%26+Threat+Intelligence;CTF+Player;Always+Learning!)]
 
 ---
 
-## 👨‍💻 About Me
+<!-- Animated neon divider (optional GIF: neon-bar.gif) -->
+<p align="center">
+  <img src="./neon-bar.gif" alt="neon divider" width="760" />
+</p>
 
-```yaml
-Name: Harsh
-Username: frharsh
-Role: Cybersecurity Student | CTF Player
-Focus: Ethical Hacking, VAPT, OSINT, Exploitation
-Learning: CEH v13, Web & Network Pentesting
-Mindset: Think like an attacker, defend like a pro
 
 
 ## 🔥 Quick stats & badges
