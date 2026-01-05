@@ -79,9 +79,6 @@
   />
 </p>
 
-<!-- Footer --> 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/> </p>
-
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-jadhav-335795319/)
