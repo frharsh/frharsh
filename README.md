@@ -87,6 +87,18 @@
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-0F172A?style=for-the-badge&logo=tryhackme&logoColor=9BE9A8)](https://tryhackme.com/p/fr.harxh)
 [![HackTheBox](https://img.shields.io/badge/-HackTheBox-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/Athex1)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-cyber.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-light.svg" />
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-cyber.svg" />
+  </picture>
+</p>
 
 > *“In cybersecurity, curiosity isn’t dangerous — it’s essential.”*  
 >  🐉
