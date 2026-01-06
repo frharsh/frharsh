@@ -7,10 +7,9 @@
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFFF&center=true&vCenter=true&width=680&lines=Cyber+Enthusiast;CEH+Learner;DFIR+%26+Threat+Intelligence;CTF+Player;Always+Learning!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFFF&center=true&vCenter=true&width=720&lines=Ethical+Hacker;Adversary+Mindset+%7C+Defensive+Purpose;DFIR+%26+Threat+Intelligence;CTF+Player+%7C+Security+Labs" />
 </p>
 
----
 
 <!-- ===================== DIVIDER ===================== -->
 <p align="center">
