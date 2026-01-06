@@ -78,20 +78,18 @@
 
 ---
 
-## 🐍 Contribution Snake (Cyber Edition)
+## 🐍 Contribution Activity — Red Team
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-cyber.svg" />
+      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-light.svg" />
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-cyber.svg" />
+    <img alt="Contribution Snake"
+      src="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
   </picture>
 </p>
-
----
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-jadhav-335795319/)
