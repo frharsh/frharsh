@@ -1,4 +1,4 @@
-🐉 Harxh | Ethical Hacker & Cybersecurity Enthusiast
+
 <!-- ======= ANIMATED HEADER ======= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0A0A0A&height=210&section=header&text=Hi%20I'm%20Harxh%20👋&fontSize=42&fontColor=E5E7EB&animation=fadeIn" /> </p> <!-- ======= TYPING EFFECT ======= --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&lines=Ethical+Hacker;Cybersecurity+Enthusiast;CTF+Player;DFIR+%7C+SOC+Learner;Think+Like+an+Attacker" /> </p>
 <!-- ===================== TYPING ===================== -->
 <p align="center">
