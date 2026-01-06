@@ -1,6 +1,17 @@
+<!-- ===================== ELITE INTRO ===================== -->
+<h1 align="center">HARXH</h1>
 
-🐉 HARXH — CYBERSECURITY & ETHICAL HACKING
-<!-- ===================== TERMINAL BANNER ===================== --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=%24+whoami;Harxh;Ethical+Hacker+%7C+Cybersecurity+Enthusiast;%24+focus+--redteam+--dfir+--ctf" /> </p> <p align="center"> <sub><b>Think like an attacker. Act like a defender.</b></sub> </p>
+<p align="center">
+  <b>Ethical Hacker · Cybersecurity Enthusiast · CTF Player</b><br>
+  <sub>Digital Forensics • Threat Intelligence • SOC</sub>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00F5FF&center=true&vCenter=true&width=520&lines=$+whoami;ethical_hacker;$+focus+ctf+dfir+soc;$+status+learning" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFFF&center=true&vCenter=true&width=680&lines=Cyber+Enthusiast;CEH+Learner;DFIR+%26+Threat+Intelligence;CTF+Player;Always+Learning!" />
 </p>
