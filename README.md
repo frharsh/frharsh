@@ -1,10 +1,4 @@
-# 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
-
-<!-- ===================== NEON HEADER ===================== -->
-<p align="center">
-  <img src="./cyberharxh.png" alt="CyberHarxh Neon Header" />
-</p>
-
+# 🐉 Harxh ⚡ 
 <p align="center">
   よ, I'm <b>Harsh</b><br>
   👨‍💻 Cybersecurity Student · ⛓‍💥 CEH & SOC<br>
