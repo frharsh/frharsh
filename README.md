@@ -1,35 +1,26 @@
-<!-- ===================== RED TEAM IDENTITY ===================== -->
-<h1 align="center">HARXH</h1>
-
+<!-- ===================== ANIMATED HEADER ===================== -->
 <p align="center">
-  <sub>
-    Red Team · Ethical Hacking · DFIR · CTF
-  </sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=170&section=header&text=Harxh&fontSize=44&fontColor=00F5FF&animation=fadeIn" />
 </p>
 
+<!-- ===================== TYPING EFFECT ===================== -->
 <p align="center">
-  <sub>
-    Attack surface analyst. Incident thinker.
-  </sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1100&color=00F5FF&center=true&vCenter=true&width=650&lines=Ethical+Hacker;Cybersecurity+Enthusiast;CTF+Player;DFIR+%26+SOC+Learner" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1400&color=FF2E2E&center=true&vCenter=true&width=520&lines=$+whoami;harxh;$+role+red_team;$+mindset+adversarial" />
-</p>
+## 🧑‍💻 About Me
 
----
+```yaml
+Name: Harsh Jadhav
+Alias: Harxh
+Location: India
+Role: Ethical Hacker | Cybersecurity Student
+Interests: CTFs, DFIR, Threat Intelligence, SOC
+Learning: Exploitation, Incident Response, Security Automation
+Motto: I study how systems fail, so defenses don’t.
 
-## 🧠 Operator Notes
-
-```text
-Alias        : Harxh
-Discipline   : Cybersecurity
-Orientation  : Offense-first thinking
-Domains      : Red Team | DFIR | SOC
-Practice     : CTFs, Labs, Tooling
-Status       : Actively sharpening skills
 
 
 ## 🔥 Quick Stats & Presence
