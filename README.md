@@ -71,13 +71,6 @@
 
 ---
 
-## 🧰 Current Projects
-- **SNIFFER** — Python network sniffer (packet analysis & internals)  
-- **Codexx** — exploit templates & pentest utilities  
-- Recon & post-exploitation automation with Python  
-
----
-
 ## 🐍 Contribution Snake (Red Team)
 
 <p align="center">
