@@ -54,27 +54,8 @@
 
 ---
 
-## ⚙️ OS · Tools · Tech Stack
-
-![Windows](https://img.shields.io/badge/-Windows-111827?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=00AEEF)
-![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-0F172A?style=for-the-badge&logo=parrotsecurity&logoColor=00FFFF)
-
-<br />
-
-![Python](https://img.shields.io/badge/-Python-0F172A?style=for-the-badge&logo=python&logoColor=00FF87)
-![Metasploit](https://img.shields.io/badge/-Metasploit-0F172A?style=for-the-badge&logo=metasploit&logoColor=00AEEF)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-0F172A?style=for-the-badge&logo=burpsuite&logoColor=FF8A3D)
-![Nmap](https://img.shields.io/badge/-Nmap-0F172A?style=for-the-badge&logo=nmap&logoColor=9BE9A8)
-![Wireshark](https://img.shields.io/badge/-Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=00BFFF)
-![PowerShell](https://img.shields.io/badge/-PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=5391FE)
-
----
-
-## 🧰 Current Projects
-- **SNIFFER** — Python network sniffer (packet analysis & internals)  
-- **Codexx** — exploit templates & pentest utilities  
-- Recon & post-exploitation automation with Python  
+⚙️ Cybersecurity Toolset
+<p align="center"> <img src="https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=00ffff" /> <img src="https://img.shields.io/badge/Kali_Linux-0f2027?style=for-the-badge&logo=kalilinux&logoColor=00ffff" /> <img src="https://img.shields.io/badge/Burp_Suite-0f2027?style=for-the-badge&logo=burpsuite&logoColor=ff6f00" /> <img src="https://img.shields.io/badge/Nmap-0f2027?style=for-the-badge&logo=nmap&logoColor=9be9a8" /> <img src="https://img.shields.io/badge/Metasploit-0f2027?style=for-the-badge&logo=metasploit&logoColor=ff003c" /> <img src="https://img.shields.io/badge/Wireshark-0f2027?style=for-the-badge&logo=wireshark&logoColor=00bfff" /> <img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=00ff87" /> <img src="https://img.shields.io/badge/Bash-0f2027?style=for-the-badge&logo=gnu-bash&logoColor=00ffff" /> <img src="https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=ff5555" /> </p>
 
 ---
 🐍 Contribution Snake — Red Team
