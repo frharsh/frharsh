@@ -1,27 +1,30 @@
-<!-- ===================== HACKER HEADER ===================== -->
+<!-- ===================== ACCESS HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=ACCESS%20GRANTED&fontSize=38&fontColor=00ffcc&animation=fadeIn&stroke=00ffcc&strokeWidth=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:020617&height=190&section=header&text=ACCESS%20INITIALIZED&fontSize=36&fontColor=22d3ee&animation=fadeIn&stroke=22d3ee&strokeWidth=1"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFCC&center=true&vCenter=true&width=720&lines=Ethical+Hacker;CEH+Learner;SOC+Analyst+in+Progress;CTF+Player;Threat+Hunter;Blue+Team+%26+Red+Team+Security" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Ethical+Hacker;CEH+Learner;SOC+Analyst+Track;CTF+Player;Threat+Detection+%26+DFIR" />
 </p>
 
 ---
 
-## 🛡️ CYBER PROFILE
+## 🛡️ OPERATOR PROFILE
 
 ```yaml
-Name: Harsh
-Alias: CyberHarxh
+Name: Harsh Jadhav
+Alias: Harxh
 Role: Ethical Hacker | Cybersecurity Enthusiast
-Focus:
-  - CEH & SOC Operations
-  - Exploitation & Vulnerability Assessment
+Domains:
+  - Penetration Testing & VAPT
+  - SOC Operations & Threat Monitoring
   - DFIR & Incident Response
-  - Threat Detection & Analysis
-Mindset: Offensive + Defensive | Ethical | Precision Driven
-Environment: Linux | Terminal | Dark Ops
+  - Exploitation Fundamentals
+Environment:
+  - Linux-first
+  - Terminal-driven
+  - Offensive + Defensive mindset
+Principle: Learn deeply. Test ethically. Defend intelligently.
 
 
 
