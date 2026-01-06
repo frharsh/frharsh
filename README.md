@@ -1,22 +1,32 @@
-# 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
+# 🐉 Harxh ⚡ # Harxh | Cybersecurity & Ethical Hacking
 
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== CYBER HEADER ===================== -->
 <p align="center">
-  <img src="./cyberharxh.png" alt="CyberHarxh Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=CYBERSECURITY%20OPERATOR&fontSize=34&fontColor=00ffff&animation=fadeIn" />
 </p>
 
+<!-- ===================== TYPING EFFECT ===================== -->
 <p align="center">
-  よ, I'm <b>Harsh</b><br>
-  Cybersecurity Student · CEH & SOC<br>
-  Exploitation · Threat Detection · Incident Response
-</p>
-
-<!-- ===================== TYPING ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFFF&center=true&vCenter=true&width=720&lines=Ethical+Hacker;CEH+Learner;SOC+%26+Blue+Team;Threat+Intelligence;CTF+Player" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFFF&center=true&vCenter=true&width=820&lines=Ethical+Hacker;CEH+Learner;SOC+%26+Blue+Team+Analyst;Threat+Hunter;CTF+Player" />
 </p>
 
 ---
+
+## 🧑‍💻 Operator Profile
+
+```yaml
+handle: Harxh
+role: Ethical Hacker | Cybersecurity Enthusiast
+focus:
+  - SOC Operations
+  - Blue Team & DFIR
+  - Threat Detection & Analysis
+  - Exploitation (Learning)
+mindset: >
+  Think like an attacker.
+  Defend like a professional.
+  Secure responsibly.
+
 
 <p align="center">
   <img src="./neon-bar.gif" alt="divider" width="760" />
