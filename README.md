@@ -69,6 +69,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=00BFFF)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=00E5FF)
 
+
 ---
 
 ## 🧰 Current Projects
@@ -98,6 +99,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frharsh)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0F172A?style=for-the-badge&logo=tryhackme&logoColor=9BE9A8)](https://tryhackme.com/p/fr.harxh)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/Athex1)
+[![Telegram](https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Ophelian_Shadows)
+
 
 ---
 
