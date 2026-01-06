@@ -32,14 +32,17 @@ Interests: Exploitation, Incident Response, Threat Intelligence
 Mindset: Think like an attacker. Defend with context.
 
 
+🔥 Core Skill Domains
 
-## 🔥 Quick Stats & Presence
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=frharsh&theme=darkhub&row=1&column=4&margin-w=8" />
-  <img src="https://komarev.com/ghpvc/?username=frharsh&color=00FF66&style=flat-square" />
-</p>
+🔴 Penetration Testing & Ethical Hacking
 
----
+🔵 Digital Forensics & Incident Response (DFIR)
+
+🟣 Threat Intelligence & SOC Monitoring
+
+🟠 Exploit Development (learning phase)
+
+🧩 CTFs — Web · Network · Forensics
 
 ## 📊 GitHub Performance
 <p>
