@@ -1,17 +1,15 @@
-make best one adn give me the final code edit  all the waay best # 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
+# 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
 
+<!-- ===================== NEON HEADER ===================== -->
 <p align="center">
   <img src="./cyberharxh.png" alt="CyberHarxh Neon Header" />
 </p>
 
-```bash
-┌─[ harxh@github ]──────────────────────────────────────────────┐
-│ 👨‍💻 Role        : Cybersecurity Practitioner                 │
-│ 🧠 Focus       : DFIR • Threat Intelligence • CTFs           │
-│ 🔴 Mindset     : Think like an attacker, defend like a pro   │
-│ ⚙️ Interests   : Exploitation • Detection • Incident Response│
-└──────────────────────────────────────────────────────────────┘
-
+<p align="center">
+  よ, I'm <b>Harsh</b><br>
+  👨‍💻 Cybersecurity Student · ⛓‍💥 CEH & SOC<br>
+  👾 Exploitation · Threat Detection · Incident Response
+</p>
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
@@ -73,19 +71,27 @@ make best one adn give me the final code edit  all the waay best # 🐉 Harxh �
 
 ---
 
-## 🐍 Contribution Snake (Red Team)
+## 🧰 Current Projects
+- **SNIFFER** — Python network sniffer (packet analysis & internals)  
+- **Codexx** — exploit templates & pentest utilities  
+- Recon & post-exploitation automation with Python  
+
+---
+
+## 🐍 Contribution Snake (Cyber Edition)
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
+      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-cyber.svg" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-light.svg" />
-    <img alt="GitHub Contribution Snake - Red Team"
-      src="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-cyber.svg" />
   </picture>
 </p>
 
+---
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-jadhav-335795319/)
