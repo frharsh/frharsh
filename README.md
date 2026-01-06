@@ -1,25 +1,35 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+# 🐉 Harxh | Cybersecurity & Ethical Hacking
+
+<!-- ===================== HERO HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=170&section=header&text=Harxh&fontSize=44&fontColor=00F5FF&animation=fadeIn" />
+  <img src="./cyberharxh.png" alt="CyberHarxh Header" />
 </p>
 
-<!-- ===================== TYPING EFFECT ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1100&color=00F5FF&center=true&vCenter=true&width=650&lines=Ethical+Hacker;Cybersecurity+Enthusiast;CTF+Player;DFIR+%26+SOC+Learner" />
+  <b>Harsh Jadhav</b><br>
+  <sub>Cybersecurity Student · CEH Track · SOC & DFIR</sub><br>
+  <sub>Exploitation · Threat Detection · Incident Response</sub>
+</p>
+
+<!-- ===================== TYPING ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&lines=Ethical+Hacker;Cybersecurity+Enthusiast;CTF+Player;DFIR+%7C+Threat+Intelligence;Learning+by+Breaking+Systems" />
+</p>
+
+<p align="center">
+  <sub><i style="color:#00E5FF">I study how systems fail, so defenses don’t.</i></sub>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
 ```yaml
-Name: Harsh Jadhav
 Alias: Harxh
-Location: India
-Role: Ethical Hacker | Cybersecurity Student
-Interests: CTFs, DFIR, Threat Intelligence, SOC
-Learning: Exploitation, Incident Response, Security Automation
-Motto: I study how systems fail, so defenses don’t.
+Field: Cybersecurity & Ethical Hacking
+Focus: Red Team | DFIR | SOC Operations
+Interests: Exploitation, Incident Response, Threat Intelligence
+Mindset: Think like an attacker. Defend with context.
 
 
 
