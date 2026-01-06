@@ -1,15 +1,17 @@
 # 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
 
-<!-- ===================== NEON HEADER ===================== -->
 <p align="center">
   <img src="./cyberharxh.png" alt="CyberHarxh Neon Header" />
 </p>
 
-<p align="center">
-  よ, I'm <b>Harsh</b><br>
-  👨‍💻 Cybersecurity Student · ⛓‍💥 CEH & SOC<br>
-  👾 Exploitation · Threat Detection · Incident Response
-</p>
+```bash
+┌─[ harxh@github ]──────────────────────────────────────────────┐
+│ 👨‍💻 Role        : Cybersecurity Practitioner                 │
+│ 🧠 Focus       : DFIR • Threat Intelligence • CTFs           │
+│ 🔴 Mindset     : Think like an attacker, defend like a pro   │
+│ ⚙️ Interests   : Exploitation • Detection • Incident Response│
+└──────────────────────────────────────────────────────────────┘
+
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
