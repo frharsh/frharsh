@@ -1,40 +1,33 @@
-# 🐉 Harxh ⚡ # Harxh | Cybersecurity & Ethical Hacking
+make best one adn give me the final code edit  all the waay best # 🐉 Harxh ⚡ | Cybersecurity & Ethical Hacking
 
-<!-- ===================== CYBER HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=CYBERSECURITY%20OPERATOR&fontSize=34&fontColor=00ffff&animation=fadeIn" />
+  <img src="./cyberharxh.png" alt="CyberHarxh Neon Header" />
 </p>
 
-<!-- ===================== TYPING EFFECT ===================== -->
+```bash
+┌─[ harxh@github ]──────────────────────────────────────────────┐
+│ 👨‍💻 Role        : Cybersecurity Practitioner                 │
+│ 🧠 Focus       : DFIR • Threat Intelligence • CTFs           │
+│ 🔴 Mindset     : Think like an attacker, defend like a pro   │
+│ ⚙️ Interests   : Exploitation • Detection • Incident Response│
+└──────────────────────────────────────────────────────────────┘
+
+
+<!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFFF&center=true&vCenter=true&width=820&lines=Ethical+Hacker;CEH+Learner;SOC+%26+Blue+Team+Analyst;Threat+Hunter;CTF+Player" />
-</p>
-
----
-
-## 🧑‍💻 Operator Profile
-
-```yaml
-handle: Harxh
-role: Ethical Hacker | Cybersecurity Enthusiast
-focus:
-  - SOC Operations
-  - Blue Team & DFIR
-  - Threat Detection & Analysis
-  - Exploitation (Learning)
-mindset: >
-  Think like an attacker.
-  Defend like a professional.
-  Secure responsibly.
-
-
-<p align="center">
-  <img src="./neon-bar.gif" alt="divider" width="760" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFFF&center=true&vCenter=true&width=680&lines=Cyber+Enthusiast;CEH+Learner;DFIR+%26+Threat+Intelligence;CTF+Player;Always+Learning!" />
 </p>
 
 ---
 
-## 🔥 Presence & Activity
+<!-- ===================== DIVIDER ===================== -->
+<p align="center">
+  <img src="./neon-bar.gif" alt="neon divider" width="760" />
+</p>
+
+---
+
+## 🔥 Quick Stats & Presence
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=frharsh&theme=darkhub&row=1&column=4&margin-w=8" />
   <img src="https://komarev.com/ghpvc/?username=frharsh&color=00FF66&style=flat-square" />
@@ -55,33 +48,32 @@ mindset: >
 ---
 
 ## 🧠 Skill Domains
-- Penetration Testing & Ethical Hacking  
-- Digital Forensics & Incident Response (DFIR)  
-- Threat Intelligence & SOC Operations  
-- Exploit Development *(learning phase)*  
-- Capture The Flag — Web · Forensics · Network  
+- 🔴 Penetration Testing & Ethical Hacking  
+- 🔵 Digital Forensics & Incident Response (DFIR)  
+- 🟣 Threat Intelligence & SOC Operations  
+- 🟠 Exploit Development *(learning)*  
+- 🧩 CTFs — Web · Forensics · Network  
 
 ---
 
-## ⚙️ Cybersecurity Toolset
+## ⚙️ OS · Tools · Tech Stack
 
-<p align="center">
+![Windows](https://img.shields.io/badge/-Windows-111827?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=00AEEF)
+![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-0F172A?style=for-the-badge&logo=parrotsecurity&logoColor=00FFFF)
 
-<img src="https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=00ffff" />
-<img src="https://img.shields.io/badge/Kali_Linux-0f2027?style=for-the-badge&logo=kalilinux&logoColor=00ffff" />
-<img src="https://img.shields.io/badge/Burp_Suite-0f2027?style=for-the-badge&logo=burpsuite&logoColor=ff6f00" />
-<img src="https://img.shields.io/badge/Nmap-0f2027?style=for-the-badge&logo=nmap&logoColor=9be9a8" />
-<img src="https://img.shields.io/badge/Metasploit-0f2027?style=for-the-badge&logo=metasploit&logoColor=ff003c" />
-<img src="https://img.shields.io/badge/Wireshark-0f2027?style=for-the-badge&logo=wireshark&logoColor=00bfff" />
-<img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=00ff87" />
-<img src="https://img.shields.io/badge/Bash-0f2027?style=for-the-badge&logo=gnu-bash&logoColor=00ffff" />
-<img src="https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=ff5555" />
+<br />
 
-</p>
+![Python](https://img.shields.io/badge/-Python-0F172A?style=for-the-badge&logo=python&logoColor=00FF87)
+![Metasploit](https://img.shields.io/badge/-Metasploit-0F172A?style=for-the-badge&logo=metasploit&logoColor=00AEEF)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-0F172A?style=for-the-badge&logo=burpsuite&logoColor=FF8A3D)
+![Nmap](https://img.shields.io/badge/-Nmap-0F172A?style=for-the-badge&logo=nmap&logoColor=9BE9A8)
+![Wireshark](https://img.shields.io/badge/-Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=00BFFF)
+![PowerShell](https://img.shields.io/badge/-PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=5391FE)
 
 ---
 
-## 🐍 Contribution Activity — Red Team
+## 🐍 Contribution Snake (Red Team)
 
 <p align="center">
   <picture>
@@ -89,19 +81,19 @@ mindset: >
       srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-light.svg" />
-    <img alt="Contribution Snake"
+    <img alt="GitHub Contribution Snake - Red Team"
       src="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
   </picture>
 </p>
 
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-jadhav-335795319/)
+[![GitHub](https://img.shields.io/badge/-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frharsh)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-0F172A?style=for-the-badge&logo=tryhackme&logoColor=9BE9A8)](https://tryhackme.com/p/fr.harxh)
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/Athex1)
+
 ---
 
-## 🌐 Professional Presence
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-jadhav-335795319/)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frharsh)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0F172A?style=for-the-badge&logo=tryhackme&logoColor=9BE9A8)](https://tryhackme.com/p/fr.harxh)
-[![HackTheBox](https://img.shields.io/badge/Hack_The_Box-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/Athex1)
-
----
-
-> **“In cybersecurity, curiosity isn’t dangerous — ignorance is.”**
+> *“In cybersecurity, curiosity isn’t dangerous — it’s essential.”*  
+> 🐉
