@@ -1,29 +1,36 @@
-<!-- ===================== ELITE INTRO ===================== -->
+<!-- ===================== RED TEAM IDENTITY ===================== -->
 <h1 align="center">HARXH</h1>
 
 <p align="center">
-  <b>Ethical Hacker · Cybersecurity Enthusiast · CTF Player</b><br>
-  <sub>Digital Forensics • Threat Intelligence • SOC</sub>
+  <sub>
+    Red Team · Ethical Hacking · DFIR · CTF
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    Attack surface analyst. Incident thinker.
+  </sub>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00F5FF&center=true&vCenter=true&width=520&lines=$+whoami;ethical_hacker;$+focus+ctf+dfir+soc;$+status+learning" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFFF&center=true&vCenter=true&width=680&lines=Cyber+Enthusiast;CEH+Learner;DFIR+%26+Threat+Intelligence;CTF+Player;Always+Learning!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1400&color=FF2E2E&center=true&vCenter=true&width=520&lines=$+whoami;harxh;$+role+red_team;$+mindset+adversarial" />
 </p>
 
 ---
 
-<!-- ===================== DIVIDER ===================== -->
-<p align="center">
-  <img src="./neon-bar.gif" alt="neon divider" width="760" />
-</p>
+## 🧠 Operator Notes
 
----
+```text
+Alias        : Harxh
+Discipline   : Cybersecurity
+Orientation  : Offense-first thinking
+Domains      : Red Team | DFIR | SOC
+Practice     : CTFs, Labs, Tooling
+Status       : Actively sharpening skills
+
 
 ## 🔥 Quick Stats & Presence
 <p>
