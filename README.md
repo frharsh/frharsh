@@ -78,20 +78,37 @@
 
 ---
 
-## 🐍 Contribution Snake (Cyber Edition)
+name: Contribution Snake (Red Team)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-cyber.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-light.svg" />
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-cyber.svg" />
-  </picture>
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
----
+# 🔑 THIS IS THE FIX
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Red Team Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: frharsh
+          outputs: |
+            dist/github-snake-redteam.svg?palette=github-dark&color_snake=#ff003c
+            dist/github-snake-light.svg?palette=github-light
+
+      - name: Publish Snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-jadhav-335795319/)
