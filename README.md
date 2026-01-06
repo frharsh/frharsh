@@ -24,3 +24,6 @@ Focus:
   - Threat Intelligence
   - Blue Team Operations
 Mindset: Learn • Break • Secure • Repeat
+
+⚡ Cyber Arsenal & Environments
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,powershell,git" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=kali,windows,vscode,docker" /> </p>
