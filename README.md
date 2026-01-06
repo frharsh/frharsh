@@ -1,19 +1,26 @@
-# Harxh | Cybersecurity • Ethical Hacking • DFIR
+# 🐉 Harxh ⚡ | Cybersecurity • Ethical Hacking • DFIR
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00FF9C&center=true&vCenter=true&width=720&lines=Cybersecurity+Student;Ethical+Hacker+%7C+DFIR;Threat+Intelligence+%26+Blue+Team;CTF+Player;Learn+%7C+Break+%7C+Defend" />
+  <img src="./cyberharxh.png" alt="CyberHarxh Neon Header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frharsh&color=00FF9C&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFF0&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;CEH+%26+SOC+Learner;DFIR+%26+Threat+Detection;CTF+Player;Breaking+to+Build+Secure+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=frharsh&style=for-the-badge&color=00FF88" />
 </p>
 
 ---
 
-## PROFILE
-```text
-Name      : Harsh (Harxh)
-Role      : Cybersecurity Student
-Focus     : DFIR | Threat Intelligence | Ethical Hacking
-CTFs      : Web | Network | Forensics
-Mindset   : Precision > Noise
+## 🧠 About Me
+```yaml
+Name: Harsh (Harxh)
+Role: Cybersecurity Student
+Focus:
+  - Ethical Hacking & Pentesting
+  - DFIR & Incident Response
+  - Threat Intelligence
+  - Blue Team Operations
+Mindset: Learn • Break • Secure • Repeat
