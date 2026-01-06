@@ -1,35 +1,28 @@
-# 🐉 Harxh | Cybersecurity & Ethical Hacking
-
-<!-- ===================== HERO HEADER ===================== -->
+<!-- ===================== HACKER HEADER ===================== -->
 <p align="center">
-  <img src="./cyberharxh.png" alt="CyberHarxh Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=ACCESS%20GRANTED&fontSize=38&fontColor=00ffcc&animation=fadeIn&stroke=00ffcc&strokeWidth=1"/>
 </p>
 
 <p align="center">
-  <b>Harsh Jadhav</b><br>
-  <sub>Cybersecurity Student · CEH Track · SOC & DFIR</sub><br>
-  <sub>Exploitation · Threat Detection · Incident Response</sub>
-</p>
-
-<!-- ===================== TYPING ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&lines=Ethical+Hacker;Cybersecurity+Enthusiast;CTF+Player;DFIR+%7C+Threat+Intelligence;Learning+by+Breaking+Systems" />
-</p>
-
-<p align="center">
-  <sub><i style="color:#00E5FF">I study how systems fail, so defenses don’t.</i></sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFCC&center=true&vCenter=true&width=720&lines=Ethical+Hacker;CEH+Learner;SOC+Analyst+in+Progress;CTF+Player;Threat+Hunter;Blue+Team+%26+Red+Team+Security" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🛡️ CYBER PROFILE
 
 ```yaml
-Alias: Harxh
-Field: Cybersecurity & Ethical Hacking
-Focus: Red Team | DFIR | SOC Operations
-Interests: Exploitation, Incident Response, Threat Intelligence
-Mindset: Think like an attacker. Defend with context.
+Name: Harsh
+Alias: CyberHarxh
+Role: Ethical Hacker | Cybersecurity Enthusiast
+Focus:
+  - CEH & SOC Operations
+  - Exploitation & Vulnerability Assessment
+  - DFIR & Incident Response
+  - Threat Detection & Analysis
+Mindset: Offensive + Defensive | Ethical | Precision Driven
+Environment: Linux | Terminal | Dark Ops
+
 
 
 🔥 Core Skill Domains
