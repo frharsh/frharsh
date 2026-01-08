@@ -63,15 +63,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=00E5FF)
 
 
----
-
-## 🧰 Current Projects
-- **SNIFFER** — Python network sniffer (packet analysis & internals)  
-- **Codexx** — exploit templates & pentest utilities  
-- Recon & post-exploitation automation with Python  
-
----
-
 ## 🐍 Contribution Activity — Red Team
 
 <p align="center">
