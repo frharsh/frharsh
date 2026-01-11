@@ -26,11 +26,11 @@
 
 ## 📊 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=radical&hide_border=true&format=png)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=radical&hide_border=true&format=png)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=frharsh&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=frharsh&theme=radical&hide_border=true&type=png)
 
 
 ## 🧠 Skill Domains
