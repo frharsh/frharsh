@@ -22,6 +22,7 @@
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=frharsh&theme=darkhub&row=1&column=4&margin-w=8" />
   <img src="https://komarev.com/ghpvc/?username=frharsh&color=00FF66&style=flat-square" />
+  
 </p>
 
 ---
