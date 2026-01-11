@@ -26,11 +26,12 @@
 
 ## 📊 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=frharsh&theme=radical)
+
 
 ## 🧠 Skill Domains
 - 🔴 Penetration Testing & Ethical Hacking  
