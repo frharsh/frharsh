@@ -18,19 +18,28 @@
 
 ---
 
-## 🔥 Quick Stats & Presence
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=frharsh&label=Profile%20Views&color=00ffaa&style=for-the-badge)
+## 🔥 Quick Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=frharsh&label=Profile%20Views&color=00E5FF&style=flat" />
+</p>
 
 ---
 
 ## 📊 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=radical&hide_border=true&format=png)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frharsh&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=radical&hide_border=true&format=png)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=frharsh&theme=radical&hide_border=true&type=png)
+---
 
 
 ## 🧠 Skill Domains
