@@ -28,8 +28,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=frharsh&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
+</p
 ## 🧠 Skill Domains
 - 🔴 Penetration Testing & Ethical Hacking  
 - 🔵 Digital Forensics & Incident Response (DFIR)  
