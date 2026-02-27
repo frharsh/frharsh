@@ -22,7 +22,7 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frharsh&theme=tokyonight&v=2" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frharsh&theme=github_dark" />
 </p>
 
 <p align="center">
