@@ -22,12 +22,12 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=github_dark&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=00F0FF" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=frharsh&theme=github-dark-blue&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=frharsh&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=github_dark&hide_border=true&title_color=00F0FF&text_color=00F0FF" height="150"/>
 </p>
 
 ## 🧠 Skill Domains
