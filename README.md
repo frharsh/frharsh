@@ -54,6 +54,17 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=00E5FF)
 
 
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-jadhav-335795319/)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frharsh)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0F172A?style=for-the-badge&logo=tryhackme&logoColor=9BE9A8)](https://tryhackme.com/p/fr.harxh)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/Athex1)
+[![Telegram](https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Ophelian_Shadows)
+
+---
+
 
 ## 🐍 Contribution Activity — Red Team
 
@@ -68,17 +79,6 @@
   </picture>
 </p>
 
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-jadhav-335795319/)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frharsh)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0F172A?style=for-the-badge&logo=tryhackme&logoColor=9BE9A8)](https://tryhackme.com/p/fr.harxh)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/Athex1)
-[![Telegram](https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Ophelian_Shadows)
-
-
----
 
 > *“I study how systems fail, so defenses don’t.”*  
 > *— Offense-driven thinking. Defense-focused outcomes.*  
