@@ -29,32 +29,16 @@
 ---
 
 ---
-
-## 🧠 Cyber Metrics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frharsh&label=Profile%20Views&color=00E5FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/frharsh?label=Followers&style=for-the-badge&color=00E5FF" />
-</p>
-
----
-
-## ⚡ GitHub Arsenal
+## ⚡ Cyber Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=radical&hide_border=true&title_color=00E5FF&icon_color=00E5FF" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frharsh&theme=radical&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frharsh&theme=tokyonight" />
 </p>
-
----
-
-## 🛠 Weapon Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=radical&hide_border=true&title_color=00E5FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frharsh&theme=tokyonight&hide_border=true&ring=00E5FF&fire=00E5FF" height="150"/>
 </p>
-
----
 
 
 ## 🧠 Skill Domains
