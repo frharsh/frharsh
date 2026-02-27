@@ -20,16 +20,11 @@
 
 ---
 
-## 🔥 Quick Stats
-
+## 🔥 GitHub Stats
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=frharsh&label=Profile%20Views&color=00E5FF&style=flat" />
 </p>
 
----
-
----
-## ⚡ Cyber Arsenal
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frharsh&theme=nord_dark" />
