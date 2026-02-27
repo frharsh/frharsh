@@ -1,8 +1,8 @@
 # 🐉 Harxh ⚡ 
 <p align="center">
   よ, I'm <b>Harsh</b><br>
-  👨‍💻 Cybersecurity Student · ⛓‍💥 CEH & SOC<br>
-  👾 Exploitation · Threat Detection · Incident Response
+  👨‍💻 Cybersecurity Student |👾 CTF Player<br>
+  ⚔️ Exploitation · Threat Detection
 </p>
 
 <!-- ===================== TYPING ===================== -->
