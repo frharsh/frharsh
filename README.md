@@ -7,7 +7,7 @@
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFFF&center=true&vCenter=true&width=720&lines=Ethical+Hacker;Adversary+Mindset+%7C+Defensive+Purpose;DFIR+%26+Threat+Intelligence;CTF+Player+%7C+Security+Labs" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Red+Team+CTF+Player;Breaking+Systems+to+Secure+Them;Bug+Bounty+Learner;Living+in+the+Terminal+🖥️" />
 </p>
 
 
