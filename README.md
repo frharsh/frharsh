@@ -19,17 +19,17 @@
 ---
 
 ---
-
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=nord&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=frharsh&theme=github-dark-blue&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=frharsh&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=nord&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=frharsh&theme=github-dark-blue&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=nord&hide_border=true" height="165"/>
 </p>
+
 ## 🧠 Skill Domains
 - 🔴 Penetration Testing & Ethical Hacking  
 - 🔵 Digital Forensics & Incident Response (DFIR)  
