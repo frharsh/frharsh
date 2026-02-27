@@ -29,15 +29,15 @@
   <img src="https://streak-stats.demolab.com?user=frharsh&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
- ## 🔥 GitHub Stats
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frharsh&theme=tokyonight&v=2" />username=frharsh&theme=tokyonight&title_color=00E5FF&text_color=00E5FF&icon_color=00E5FF" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frharsh&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=frharsh&theme=tokyonight&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=00E5FF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=00E5FF" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=frharsh&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 
