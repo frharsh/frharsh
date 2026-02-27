@@ -30,15 +30,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=00E5FF" height="165"/>
 </p>
 
-## 🧠 Skill Domains
+### 🧠 Skill Domains
 
-- ⚔️ Penetration Testing & Ethical Hacking  
+- ⚔ Penetration Testing & Ethical Hacking  
 - 🧩 Digital Forensics & Incident Response (DFIR)  
-- 🛡️ Threat Intelligence & SOC Operations  
+- 🛡 Threat Intelligence & SOC Operations  
 - 💣 Exploit Development *(Learning Phase)*  
 - 🏁 CTFs — Web · Forensics · Network
 
-## ⚙️ OS · Tools · Tech Stack
+### ⚙️ OS · Tools · Tech Stack 
 
 ![Windows](https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=00AEEF)
