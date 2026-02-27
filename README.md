@@ -31,11 +31,13 @@
 </p>
 
 ## 🧠 Skill Domains
-- 🔴 Penetration Testing & Ethical Hacking  
-- 🔵 Digital Forensics & Incident Response (DFIR)  
-- 🟣 Threat Intelligence & SOC Operations  
-- 🟠 Exploit Development *(learning)*  
-- 🧩 CTFs — Web · Forensics · Network  
+
+```text
+◈ Penetration Testing & Ethical Hacking
+◈ Digital Forensics & Incident Response (DFIR)
+◈ Threat Intelligence & SOC Operations
+◈ Exploit Development (Learning Phase)
+◈ CTFs — Web · Forensics · Network
 
 ---
 
