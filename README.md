@@ -19,7 +19,7 @@
 ---
 
 ---
-## 🔥 GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frharsh&theme=github_dark" />
@@ -56,7 +56,7 @@
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-jadhav-335795319/)
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frharsh)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0F172A?style=for-the-badge&logo=tryhackme&logoColor=9BE9A8)](https://tryhackme.com/p/fr.harxh)
@@ -66,7 +66,7 @@
 ---
 
 
-## 🐍 Contribution Activity — Red Team
+### 🐍 Contribution Activity — Red Team
 
 <p align="center">
   <picture>
@@ -79,7 +79,7 @@
   </picture>
 </p>
 
+---
 
-> *“I study how systems fail, so defenses don’t.”*  
-> *— Offense-driven thinking. Defense-focused outcomes.*  
-> 🐉  
+> *“Think like an attacker. Build like a defender.”* 🐉  
+> *— Offense reveals truth. Defense earns trust.*
