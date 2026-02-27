@@ -7,7 +7,7 @@
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Red+Team+CTF+Player;Breaking+Systems+to+Secure+Them;Bug+Bounty+Learner;Living+in+the+Terminal+🖥️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Red+Team+CTF+Player;Breaking+Systems+to+Secure+Them;Bug+Bounty+Learner;Living+in+the+Terminal+🖥️" />
 </p>
 
 
