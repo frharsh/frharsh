@@ -25,6 +25,8 @@
 - 💣 Exploit Development *(Learning Phase)*  
 - 🏁 CTFs — Web · Forensics · Network
 
+---
+
 ### ⚙️ OS · Tools · Tech Stack 
 
 ![Windows](https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=white)
@@ -64,38 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frharsh&layout=compact&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=00E5FF" height="165"/>
 </p>
 
-### 🧠 Skill Domains
 
-- ⚔ Penetration Testing & Ethical Hacking  
-- 🧩 Digital Forensics & Incident Response (DFIR)  
-- 🛡 Threat Intelligence & SOC Operations  
-- 💣 Exploit Development *(Learning Phase)*  
-- 🏁 CTFs — Web · Forensics · Network
-
-### ⚙️ OS · Tools · Tech Stack 
-
-![Windows](https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=00AEEF)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-0F172A?style=for-the-badge&logo=parrotsecurity&logoColor=00FFFF)
-
-<br />
-
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=00FF87)
-![Metasploit](https://img.shields.io/badge/Metasploit-0F172A?style=for-the-badge&logo=metasploit&logoColor=00AEEF)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0F172A?style=for-the-badge&logo=burpsuite&logoColor=FF8A3D)
-![Nmap](https://img.shields.io/badge/Nmap-0F172A?style=for-the-badge&logo=nmap&logoColor=9BE9A8)
-![Wireshark](https://img.shields.io/badge/Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=00BFFF)
-![PowerShell](https://img.shields.io/badge/PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=00E5FF)
-
-
----
-
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/harsh-jadhav-335795319/)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frharsh)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0F172A?style=for-the-badge&logo=tryhackme&logoColor=9BE9A8)](https://tryhackme.com/p/fr.harxh)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/Athex1)
-[![Telegram](https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Ophelian_Shadows)
 
 ---
 
