@@ -40,19 +40,17 @@
 
 ## ⚙️ OS · Tools · Tech Stack
 
-## ⚙️ OS · Tools · Tech Stack
-
-![Windows](https://img.shields.io/badge/Windows-0F172A?style=for-the-badge&logo=windows&logoColor=00E5FF)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-0F172A?style=for-the-badge&logo=parrotsecurity&logoColor=00E5FF)
+![Windows](https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=00AEEF)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-0F172A?style=for-the-badge&logo=parrotsecurity&logoColor=00FFFF)
 
 <br />
 
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=00E5FF)
-![Metasploit](https://img.shields.io/badge/Metasploit-0F172A?style=for-the-badge&logo=metasploit&logoColor=00E5FF)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0F172A?style=for-the-badge&logo=burpsuite&logoColor=00E5FF)
-![Nmap](https://img.shields.io/badge/Nmap-0F172A?style=for-the-badge&logo=nmap&logoColor=00E5FF)
-![Wireshark](https://img.shields.io/badge/Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=00E5FF)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=00FF87)
+![Metasploit](https://img.shields.io/badge/Metasploit-0F172A?style=for-the-badge&logo=metasploit&logoColor=00AEEF)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0F172A?style=for-the-badge&logo=burpsuite&logoColor=FF8A3D)
+![Nmap](https://img.shields.io/badge/Nmap-0F172A?style=for-the-badge&logo=nmap&logoColor=9BE9A8)
+![Wireshark](https://img.shields.io/badge/Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=00BFFF)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=00E5FF)
 
 
