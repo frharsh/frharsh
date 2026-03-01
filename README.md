@@ -15,8 +15,10 @@
 <p align="center">
   <img src="./neon-bar.gif" alt="neon divider" width="760" />
 </p>
+
 ---
-## 💀 My GitHub Activity Game
+
+## 👾 My GitHub Activity Game
 <p align="center">
 <img src="assets/space-shooter.gif" />
 </p>
