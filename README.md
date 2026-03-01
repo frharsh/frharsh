@@ -17,23 +17,13 @@
 </p>
 
 ---
-## ■ My GitHub Activity Game
+
+## 💀 My GitHub Activity Game
 <p align="center">
 <img src="assets/space-shooter.gif" />
 </p>
 
-### 🐍 Contribution Activity — Red Team
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-light.svg" />
-    <img alt="Contribution Snake"
-      src="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
-  </picture>
-</p>
 ---
 ### 🧠 Skill Domains
 
