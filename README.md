@@ -17,6 +17,20 @@
 </p>
 
 ---
+---
+### 🐍 Contribution Activity — Red Team
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-light.svg" />
+    <img alt="Contribution Snake"
+      src="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
+  </picture>
+</p>
+---
 ### 🧠 Skill Domains
 
 - ⚔ Penetration Testing & Ethical Hacking  
@@ -52,7 +66,6 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/Athex1)
 [![Telegram](https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Ophelian_Shadows)
 
----
 
 ---
 ### 🔥 GitHub Stats
@@ -67,22 +80,6 @@
 </p>
 
 
-
----
-
-
-### 🐍 Contribution Activity — Red Team
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-light.svg" />
-    <img alt="Contribution Snake"
-      src="https://raw.githubusercontent.com/frharsh/frharsh/output/github-snake-redteam.svg" />
-  </picture>
-</p>
 
 ---
 
