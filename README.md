@@ -17,7 +17,11 @@
 </p>
 
 ---
----
+## ■ My GitHub Activity Game
+<p align="center">
+<img src="assets/space-shooter.gif" />
+</p>
+
 ### 🐍 Contribution Activity — Red Team
 
 <p align="center">
