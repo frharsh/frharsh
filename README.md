@@ -1,4 +1,4 @@
-# 🐉 Harxh ⚡ 
+## 🐉 Harxh ⚡ 
 <p align="center">
   よ, I'm <b>Harsh</b><br>
   👨‍💻 Cybersecurity Student |💀 CTF Player<br>
